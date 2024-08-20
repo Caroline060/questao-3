@@ -45,4 +45,5 @@ export class Extintor {
     public apagar(): void {
         console.log(`extintores são usados para apagar o fogo.`);
     }
+    
 }
